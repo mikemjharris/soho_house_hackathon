@@ -1,0 +1,50 @@
+body {
+  text-align: center;
+  font-family: verdana;
+  box-sizing: border-box;
+}
+
+audio{
+  position: absolute;
+  top: -200px;
+}
+.answer {
+  padding: 10px;
+  border-radius: 5px;
+  background: hsla(0,100%,50%,1);
+  margin: 5px;
+  width: 410px;
+  display: inline-block;
+}
+img {
+  width: 200px;
+
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  font-size: 16px;
+  font-weight: 200;
+
+}
+
+.button {
+  background: hsla(240,100%,50%,1);
+  width: 200px;
+  height: 50px;
+  line-height: 50px;
+  border-radius: 5px;
+  padding: 10px;
+  display: inline-block;
+  cursor: pointer;
+
+
+}
+.cont {
+  margin: 10px;
+  display: inline-block;
+  vertical-align: top;
+  height: 500px;
+  overflow: scroll;
+}
