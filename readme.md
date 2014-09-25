@@ -8,4 +8,4 @@ With that brief this is the project we built.
 
 It can be found: http://www.sirrahmj.co.uk/yahoo_soho_house_hackathon/
 
-Or failing that: 
+Or failing that: http://mikemjharris.github.io/soho_house_hackathon/
